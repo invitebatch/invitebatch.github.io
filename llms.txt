@@ -1,0 +1,10 @@
+# Invitation Wording Library
+
+> Free, copy-ready invitation wording examples for weddings, birthdays, bridal showers and engagement parties, by the team behind InviteBatch (https://invitebatch.com).
+
+## Pages
+
+- [Wedding Invitation Wording: 21 Examples (2027 Guide)](https://invitebatch.github.io/wedding-invitation-wording): Wedding invitation wording for every host and style: parents, couples, blended families, reception-only and destination weddings. Copy and adapt.
+- [Birthday Invitation Wording: 25 Ideas for Every Age (2027)](https://invitebatch.github.io/birthday-invitation-wording): Birthday invitation wording for kids parties, first birthdays, milestone 30th to 80th birthdays and surprise parties. Free examples to copy.
+- [Bridal Shower Invitation Wording: 16 Examples + Etiquette](https://invitebatch.github.io/bridal-shower-invitation-wording): Bridal shower invitation wording for classic, brunch, tea party, themed and couples showers, plus who hosts, who is invited and when to send.
+- [Engagement Party Invitation Wording: Formal to Casual](https://invitebatch.github.io/engagement-party-invitation-wording): Engagement party invitation wording: formal parent-hosted dinners, casual drinks, BBQs and surprise engagement parties, plus timing and gift etiquette.
