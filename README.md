@@ -8,5 +8,6 @@ Free, copy-ready invitation wording for weddings, birthdays, bridal showers and 
 - [Birthday invitation wording](https://invitebatch.github.io/birthday-invitation-wording)
 - [Bridal shower invitation wording](https://invitebatch.github.io/bridal-shower-invitation-wording)
 - [Engagement party invitation wording](https://invitebatch.github.io/engagement-party-invitation-wording)
+- [How to print invitations you designed yourself](https://invitebatch.github.io/how-to-print-invitations-online)
 
 Made by the team behind [InviteBatch](https://invitebatch.com). The wording is free to use. Suggestions welcome via issues.
